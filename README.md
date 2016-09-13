@@ -10,7 +10,7 @@ VERSION or DATE: February 2016
 
 HOW TO START THIS PROJECT: 
 Load project into newest version of BlueJ IDE.
-Right click on Classes for Each Object
+Right click on Classes for each object.
 Then click Run for which ever program you choose to run out of the 4 java classes
 
 AUTHORS: Koushik Pernati
